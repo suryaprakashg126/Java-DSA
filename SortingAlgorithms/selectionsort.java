@@ -2,6 +2,7 @@ package SortingAlgorithms;
 // selection sort 
 // sort the array elements in ascending order.
 // push the minimum elements towards front.
+// working with index value to take the minimum
 public class selectionsort {
 public static void main(String[] args) {
     int n=5;
